@@ -1,0 +1,4 @@
+interface:
+  display_name: "多语言开发助手"
+  short_description: "支持六种语言的项目开发、功能实现、错误调试、重构和测试验证"
+  default_prompt: "使用 $polyglot-dev 检查当前项目，按现有技术栈实现我的需求并验证运行结果。"
